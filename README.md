@@ -8,12 +8,13 @@
 7. Collaborated with LLM (Large Language Model) components for context-based user interaction.
 
 Technologies Used in the Project:
-Programming Languages: Python (Core development, ML, and Flask backend)
-Machine Learning & Deep Learning: VGG Transfer Learning (Image classification and feature extraction), Pre-trained models for vision-based tasks
-Web Development: Flask (Backend framework for chatbot interaction), HTML, CSS (Frontend design and styling)
-Image Processing: Image segmentation and recognition algorithms, Libraries like OpenCV, PIL for handling images
-Decentralized Storage: IPFS (InterPlanetary File System) for secure and decentralized file storage
-Model Deployment: Docker (Containerization for deployment and cross-platform compatibility)
-Data Management: FAISS (Facebook AI Similarity Search) for efficient vector storage and retrieval
-Additional Libraries: NumPy, Pandas (Data handling and processing), TensorFlow/Keras or PyTorch (Model training and inference), Matplotlib/Seaborn (For visualization in analysis)
-Tools: Jupyter Notebook (For experimentation and prototyping, e.g., VGGTransferLearning.ipynb), Git/GitHub (Version control and collaboration)
+
+1. Programming Languages: Python (Core development, ML, and Flask backend)
+2. Machine Learning & Deep Learning: VGG Transfer Learning (Image classification and feature extraction), Pre-trained models for vision-based tasks
+3. Web Development: Flask (Backend framework for chatbot interaction), HTML, CSS (Frontend design and styling)
+4. Image Processing: Image segmentation and recognition algorithms, Libraries like OpenCV, PIL for handling images
+5. Decentralized Storage: IPFS (InterPlanetary File System) for secure and decentralized file storage
+6. Model Deployment: Docker (Containerization for deployment and cross-platform compatibility)
+7. Data Management: FAISS (Facebook AI Similarity Search) for efficient vector storage and retrieval
+8. Additional Libraries: NumPy, Pandas (Data handling and processing), TensorFlow/Keras or PyTorch (Model training and inference), Matplotlib/Seaborn (For visualization in analysis)
+9. Tools: Jupyter Notebook (For experimentation and prototyping, e.g., VGGTransferLearning.ipynb), Git/GitHub (Version control and collaboration)
