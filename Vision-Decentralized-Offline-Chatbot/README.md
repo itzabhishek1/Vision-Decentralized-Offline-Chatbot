@@ -47,13 +47,6 @@ The chatbot employs a multimodal architecture, harnessing the capabilities of va
     ```bash
     pip install -r requirements.txt
     ```
-  ### Pull Docker Image
-
-  Alternatively, you can pull the Docker image from [jotsbindra/offlinemultimodelvisionchatbot](https://hub.docker.com/r/jotsbindra/offlinemultimodelvisionchatbot):
-
-```bash
-docker pull jotsbindra/offlinemultimodelvisionchatbot
-```
 
 ### Download Required Models
 
